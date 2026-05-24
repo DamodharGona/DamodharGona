@@ -78,6 +78,6 @@ Currently building:
 
 ## Reach Me
 
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/damodharreddygona/
 - GitHub: https://github.com/YOUR_USERNAME
-- Email: YOUR_EMAIL
+- Email: gonadamodharreddy999@gmail.com
