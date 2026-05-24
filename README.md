@@ -49,14 +49,17 @@ Currently focused on backend engineering, APIs, microservices, databases, and pr
 
 ## Projects
 
-### Healthcare Scheduling System
-Built a healthcare scheduling platform during internship:
-- Doctor schedules and slot management
-- Authentication & RBAC
-- REST APIs
-- PostgreSQL database design
-- Flutter frontend
-- Deployment on Google Cloud
+### Healthcare Scheduling System (Internship Project)
+
+Built backend and frontend features for a healthcare scheduling platform used by doctors, receptionists, and patients.
+
+Worked on:
+- Backend APIs using Node.js and PostgreSQL
+- Authentication and role-based access control (RBAC)
+- Doctor scheduling, appointments, and slot management
+- Flutter mobile app for doctors and receptionists
+- Flutter web booking portal for patients
+- API integration and deployment on Google Cloud
 
 ### Gym Management Backend
 Currently building:
