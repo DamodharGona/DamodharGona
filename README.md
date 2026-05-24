@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Damodhar 👋
 
-<!--
-**DamodharGona/DamodharGona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused full stack developer who enjoys building scalable products and learning how real systems work.
 
-Here are some ideas to get you started:
+Currently focused on backend engineering, APIs, microservices, databases, and product development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## What I'm Working On
+
+- Building a microservices backend for a gym management app
+- Learning scalable backend architecture and system design
+- Exploring AI-powered workflows and automation
+- Improving backend performance, authentication, and deployment workflows
+
+
+## Tech Stack
+
+### Backend
+- Node.js
+- TypeScript
+- Express.js
+- Fastify
+- REST APIs
+
+### Frontend
+- React
+- Flutter
+
+### Databases
+- PostgreSQL
+- MongoDB
+
+### Tools & Cloud
+- Docker
+- Git & GitHub
+- Google Cloud
+- Prisma ORM
+- Postman
+
+
+## Things I Care About
+
+- Clean and maintainable code
+- Building reliable backend systems
+- Understanding how things work internally
+- Shipping real products, not just demo projects
+- Learning continuously and improving every project
+
+
+## Projects
+
+### Healthcare Scheduling System
+Built a healthcare scheduling platform during internship:
+- Doctor schedules and slot management
+- Authentication & RBAC
+- REST APIs
+- PostgreSQL database design
+- Flutter frontend
+- Deployment on Google Cloud
+
+### Gym Management Backend
+Currently building:
+- Microservices architecture
+- Authentication & authorization
+- Subscription and member management
+- Scalable backend services
+- API communication between services
+
+
+## Open To
+
+- Backend Engineering Roles
+- Full Stack Development Roles
+- Startup Opportunities
+- Freelance Projects
+- Remote or On-site Opportunities
+
+
+## Reach Me
+
+- LinkedIn: YOUR_LINKEDIN
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: YOUR_EMAIL
