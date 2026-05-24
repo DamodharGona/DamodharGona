@@ -1,15 +1,15 @@
 # Hi, I'm Damodhar 👋
 
-Backend-focused full stack developer who enjoys building scalable products and learning how real systems work.
+Backend-focused full stack developer building scalable applications using Node.js, TypeScript, PostgreSQL, React, and Flutter.
 
-Currently focused on backend engineering, APIs, microservices, databases, and product development.
+Interested in backend engineering, APIs, microservices, databases, and building reliable products.
 
 
 ## What I'm Working On
 
 - Building a microservices backend for a gym management app
 - Learning scalable backend architecture and system design
-- Exploring AI-powered workflows and automation
+- Exploring AI workflows, automation, and modern development tools
 - Improving backend performance, authentication, and deployment workflows
 
 
@@ -61,13 +61,26 @@ Worked on:
 - Flutter web booking portal for patients
 - API integration and deployment on Google Cloud
 
-### Gym Management Backend
-Currently building:
-- Microservices architecture
+
+### Gym Management Backend (Personal Project)
+
+Currently building a gym management backend using microservices architecture.
+
+Working on:
 - Authentication & authorization
-- Subscription and member management
-- Scalable backend services
+- Member and subscription management
 - API communication between services
+- Scalable backend architecture
+- Docker-based local development
+
+
+## Current Focus
+
+- Backend Engineering
+- System Design & Scalable Architectures
+- Microservices
+- Authentication & Authorization
+- Cloud Deployment
 
 
 ## Open To
