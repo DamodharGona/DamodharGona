@@ -1,99 +1,115 @@
 # Hi, I'm Damodhar 👋
 
-Backend-focused full stack developer building scalable applications using Node.js, TypeScript, PostgreSQL, React, and Flutter.
+Backend-focused Full Stack Developer building applications using Node.js, TypeScript, PostgreSQL, React, and Flutter. Interested in backend systems, API design, workflow-heavy products, and scalable web applications.
 
-Interested in backend engineering, APIs, microservices, databases, and building reliable products.
+---
 
+## 🛠️ Tech Stack
 
-## What I'm Working On
-
-- Building a microservices backend for a gym management app
-- Learning scalable backend architecture and system design
-- Exploring AI workflows, automation, and modern development tools
-- Improving backend performance, authentication, and deployment workflows
-
-
-## Tech Stack
-
-### Backend
+### Backend & Databases
 - Node.js
 - TypeScript
 - Express.js
 - Fastify
-- REST APIs
-
-### Frontend
-- React
-- Flutter
-
-### Databases
 - PostgreSQL
 - MongoDB
+- Prisma ORM
+- REST APIs
+- JWT Authentication
+- RBAC
 
-### Tools & Cloud
+### Frontend & Mobile
+- React (basic)
+- Flutter
+- HTML
+- CSS
+
+### Tools & Infrastructure
 - Docker
 - Git & GitHub
-- Google Cloud
-- Prisma ORM
+- Google Cloud Run
 - Postman
 
+---
 
-## Things I Care About
+## 🚀 What I'm Building & Learning
 
-- Clean and maintainable code
-- Building reliable backend systems
-- Understanding how things work internally
-- Shipping real products, not just demo projects
-- Learning continuously and improving every project
+- Backend systems and API design using Node.js and TypeScript
+- Scalable application workflows, authentication, and cloud deployment
+- Better software engineering practices, debugging, and system design
+- Exploring AI-assisted development workflows and modern tooling
 
+---
 
-## Projects
+## 💻 Highlighted Projects
 
-### Healthcare Scheduling System (Internship Project)
+### Gym Management Platform (In Development)
 
-Built backend and frontend features for a healthcare scheduling platform used by doctors, receptionists, and patients.
+A full stack gym management system being built to manage memberships, subscriptions, attendance, and trainer workflows across web and mobile platforms.
 
-Worked on:
-- Backend APIs using Node.js and PostgreSQL
+#### Current Focus
+- Backend API development using Node.js, TypeScript, and PostgreSQL
 - Authentication and role-based access control (RBAC)
-- Doctor scheduling, appointments, and slot management
-- Flutter mobile app for doctors and receptionists
-- Flutter web booking portal for patients
-- API integration and deployment on Google Cloud
+- Subscription and membership workflows
+- Docker-based local development setup
+- Frontend integration and API communication
 
+#### Planned Features
+- Member onboarding and attendance tracking
+- Trainer and batch management
+- Payment/subscription handling
+- Admin dashboard and reporting
+- Notifications and reminders
 
-### Gym Management Backend (Personal Project)
+#### Tech Stack
+Node.js • TypeScript • PostgreSQL • Prisma • Docker • React • Flutter
 
-Currently building a gym management backend using microservices architecture.
+---
 
-Working on:
-- Authentication & authorization
-- Member and subscription management
-- API communication between services
-- Scalable backend architecture
-- Docker-based local development
+### Healthcare Scheduling Platform (Internship Experience)
 
+Worked on backend and application features for a healthcare scheduling platform used by doctors, receptionists, and patients.
 
-## Current Focus
+#### Backend Work
+- Built REST APIs using Node.js, TypeScript, and PostgreSQL
+- Implemented JWT authentication and role-based access control (RBAC)
+- Developed scheduling and appointment booking workflows
+- Worked on leave management and slot availability logic
+- Helped prevent overlapping appointments through backend validation
 
-- Backend Engineering
-- System Design & Scalable Architectures
-- Microservices
-- Authentication & Authorization
-- Cloud Deployment
+#### Application Features
+- Integrated frontend booking and scheduling workflows with backend services
+- Worked on Flutter-based doctor/receptionist applications
+- Contributed to patient booking and scheduling flows
 
+#### Infrastructure
+- Worked with Docker and Google Cloud Run deployments
+- Managed evolving backend requirements and workflow updates
 
-## Open To
+> Note: Source code is private due to company IP policies.
+
+---
+
+## 🎯 Engineering Focus
+
+- Building reliable backend systems and APIs
+- Writing clean and maintainable code
+- Understanding product workflows and real-world constraints
+- Shipping practical software that solves real user problems
+
+---
+
+## 🤝 Open To
 
 - Backend Engineering Roles
-- Full Stack Development Roles
-- Startup Opportunities
-- Freelance Projects
-- Remote or On-site Opportunities
+- Backend-Focused Full Stack Roles
+- Startup & Product Engineering Teams
+- Remote / Hybrid / On-site Opportunities
 
+---
 
-## Reach Me
+## 📬 Reach Me
 
 - LinkedIn: https://www.linkedin.com/in/damodharreddygona/
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/DamodharGona
 - Email: gonadamodharreddy999@gmail.com
