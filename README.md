@@ -1,5 +1,4 @@
 # Hi, I'm Damodhar 👋
-
 Backend-focused Full Stack Developer building applications using Node.js, TypeScript, PostgreSQL, React, and Flutter. Interested in backend systems, API design, workflow-heavy products, and scalable web applications.
 
 ---
@@ -33,7 +32,6 @@ Backend-focused Full Stack Developer building applications using Node.js, TypeSc
 ---
 
 ## 🚀 What I'm Building & Learning
-
 - Backend systems and API design using Node.js and TypeScript
 - Scalable application workflows, authentication, and cloud deployment
 - Better software engineering practices, debugging, and system design
@@ -43,55 +41,42 @@ Backend-focused Full Stack Developer building applications using Node.js, TypeSc
 
 ## 💻 Highlighted Projects
 
-### Gym Management Platform (In Development)
+### Job Application Tracker
+A full stack tool to track job applications and evaluate resume-to-job-description fit using AI, built to solve my own job search workflow.
 
-A full stack gym management system being built to manage memberships, subscriptions, attendance, and trainer workflows across web and mobile platforms.
+#### Core Features
+- CRUD job application tracking with status filtering, search, and dashboard analytics
+- JWT-based authentication with encrypted (AES-256-GCM) storage of user API keys
+- AI-powered resume match analysis using the Gemini API — returns a match score, keyword gap analysis, and tailored resume bullet suggestions grounded strictly in the user's actual resume
 
-#### Current Focus
-- Backend API development using Node.js, TypeScript, and PostgreSQL
-- Authentication and role-based access control (RBAC)
-- Subscription and membership workflows
-- Docker-based local development setup
-- Frontend integration and API communication
-
-#### Planned Features
-- Member onboarding and attendance tracking
-- Trainer and batch management
-- Payment/subscription handling
-- Admin dashboard and reporting
-- Notifications and reminders
+#### Engineering Highlights
+- Found and fixed multiple LLM reliability issues through adversarial testing: fabricated metrics, verb/scope inflation in generated bullets, and unreliable self-reported match-score arithmetic
+- Moved score calculation out of the prompt entirely into deterministic backend logic, using the model only for classification (present/partial/missing), not counting
+- Added detection for vague/low-specificity job descriptions to avoid presenting false-confidence match scores
 
 #### Tech Stack
-Node.js • TypeScript • PostgreSQL • Prisma • Docker • React • Flutter
+React • Node.js • TypeScript • PostgreSQL • Prisma • Gemini API • Docker
+
+🔗 [Live](https://job-tracker-ten-mu-33.vercel.app) • [GitHub](https://github.com/DamodharGona/job-tracker)
 
 ---
 
 ### Healthcare Scheduling Platform (Internship Experience)
-
-Worked on backend and application features for a healthcare scheduling platform used by doctors, receptionists, and patients.
+Backend-focused work on a clinic management platform used by doctors, receptionists, and patients — appointment booking, scheduling, and multi-role access control.
 
 #### Backend Work
-- Built REST APIs using Node.js, TypeScript, and PostgreSQL
-- Implemented JWT authentication and role-based access control (RBAC)
-- Developed scheduling and appointment booking workflows
-- Worked on leave management and slot availability logic
-- Helped prevent overlapping appointments through backend validation
-
-#### Application Features
-- Integrated frontend booking and scheduling workflows with backend services
-- Worked on Flutter-based doctor/receptionist applications
-- Contributed to patient booking and scheduling flows
-
-#### Infrastructure
-- Worked with Docker and Google Cloud Run deployments
-- Managed evolving backend requirements and workflow updates
+- Designed and implemented REST APIs using Node.js, TypeScript, and PostgreSQL for appointment booking, doctor scheduling, and consultation workflows
+- Built a conflict-free scheduling system using Prisma and PostgreSQL, resolving doctor availability, leave periods, and existing appointments simultaneously
+- Developed a triage assignment system routing patients to available doctors based on severity and specialization
+- Implemented JWT and RBAC authentication securing role-specific access across doctors, receptionists, and patients
+- Deployed backend on Google Cloud Run with Cloud SQL and signed URL file uploads for secure patient record handling
+- Integrated Firebase OTP phone authentication for clinic staff onboarding
 
 > Note: Source code is private due to company IP policies.
 
 ---
 
 ## 🎯 Engineering Focus
-
 - Building reliable backend systems and APIs
 - Writing clean and maintainable code
 - Understanding product workflows and real-world constraints
@@ -100,7 +85,6 @@ Worked on backend and application features for a healthcare scheduling platform 
 ---
 
 ## 🤝 Open To
-
 - Backend Engineering Roles
 - Backend-Focused Full Stack Roles
 - Startup & Product Engineering Teams
@@ -109,7 +93,6 @@ Worked on backend and application features for a healthcare scheduling platform 
 ---
 
 ## 📬 Reach Me
-
 - LinkedIn: https://www.linkedin.com/in/damodharreddygona/
 - GitHub: https://github.com/DamodharGona
 - Email: gonadamodharreddy999@gmail.com
